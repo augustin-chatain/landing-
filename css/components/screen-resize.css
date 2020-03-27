@@ -1,0 +1,185 @@
+
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+  .banner {
+    padding: 35px 0px;
+  }
+  .banner h1 {
+    font-size: 35px;
+  }
+  .banner h2 {
+    font-size: 20px;
+  }
+  .banner a {
+    font-size: 15px;
+  }
+  .container-centered {
+    width: 500px
+  }
+  .boxes-inline {
+    width: 700px;
+  }
+  .profile img {
+    width: 240px;
+  }
+  .profile img:hover {
+    width: 250px;
+  }
+  .profile p {
+    font-size: 15px;
+  }
+  .profile a {
+    font-size: 13px;
+  }
+  .cards{
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+  .banner {
+    padding: 25px 0px;
+  }
+  .banner h1 {
+    font-size: 25px;
+  }
+  .banner h2 {
+    font-size: 15px;
+  }
+  .banner a {
+    font-size: 12px;
+  }
+  .boxes-inline {
+    flex-direction: column;
+    align-items: center;
+  }
+  .boxes-inline {
+    width: 500px;
+  }
+  .profile img {
+    width: 300px;
+  }
+  .profile img:hover {
+    width: 310px;
+  }
+  .profile p {
+    font-size: 22px;
+  }
+  .profile a {
+    font-size: 17px;
+  }
+
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+  .banner {
+    padding: 10px 0px;
+  }
+}
+
+
+
+
+
+
+
+
+/*
+
+@media (max-width: 960px) {
+  #resize {
+    width: 930px;
+  }
+}
+@media (max-width: 930px) {
+  #resize {
+    width: 900px;
+  }
+}
+
+@media (max-width: 900px) {
+  #resize {
+    width: 870px;
+  }
+}
+
+@media (max-width: 870px) {
+  #resize .box-inline {
+    width: 840px;
+  }
+}
+
+@media (max-width: 840px) {
+  #resize {
+    width: 810px;
+  }
+}
+@media (max-width: 810px) {
+  #resize {
+    width: 780px;
+  }
+}
+@media (max-width: 780px) {
+  #resize {
+    width: 750px;
+  }
+}
+
+@media (max-width: 750px) {
+  #resize {
+    width: 720px;
+  }
+}
+
+@media (max-width: 720px) {
+  #resize {
+    width: 690px;
+  }
+}
+
+@media (max-width: 690px) {
+  #resize {
+    width: 660px;
+  }
+}
+@media (max-width: 660px) {
+  #resize {
+    width: 630px;
+  }
+}
+@media (max-width: 630px) {
+  #resize {
+    width: 600px;
+  }
+}
+
+@media (max-width: 600px) {
+  #resize {
+    width: 570px;
+  }
+}
+
+@media (max-width: 570px) {
+  #resize {
+    width: 540px;
+  }
+}
+
+@media (max-width: 540px) {
+  #resize {
+    width: 510px;
+  }
+
+
+*/
